@@ -1,5 +1,8 @@
 # 🛍️ eBay Scraper - Browser Console Edition
 
+## 📺 Video Tutorial
+Watch the complete walkthrough: [https://youtu.be/CLyq9Aqjt_k]
+
 > **Scrape eBay listings directly from your browser console - Zero installations required!**
 
 ## 🚀 What You Can Extract
@@ -110,8 +113,7 @@ The same principles work on other e-commerce sites:
 - Don't overload servers with **excessive requests**
 - Consider **official APIs** when available
 
-## 📺 Video Tutorial
-Watch the complete walkthrough: [Your YouTube Link]
+
 
 ---
 
